@@ -46,6 +46,9 @@ tabPanel("Overview",
          p("Perceptual Mapping is the use of graphs to identify the positioning of products/brands that consumers have, and find their preference. The graphs layout an X and Y axis with variables and ranges from the most desirable to least desirable. For instance, the far right may be listed as 'Upper class' while the left side will be 'Lower Class'. This allows for the placement of business names to help find the position that consumers place these businesses in relation to the variables listed."
            ,align="justify"),
          a(href="https://en.wikipedia.org/wiki/Perceptual_mapping","- Wikipedia")
+         # 
+         a(href="https://www.youtube.com/watch?v=d4pAq6UHxas","Youtube Link for App Navigation"),
+         
          
          ),
 tabPanel("Data Input Format",h4(p("Data input")),
